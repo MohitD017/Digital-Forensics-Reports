@@ -1,67 +1,75 @@
-# 📱 Mobile Forensics Analysis Repository  
+# 🔍 Digital Forensics Repository  
 
-This repository contains a comprehensive collection of **forensic analysis reports, case studies, lab exercises, and quizzes** related to **Android and iOS device forensics**. The investigations involve analyzing **targeted files, entire mobile file systems, and applications** using industry-standard forensic tools such as **FTK Imager, Magnet Axiom, Paraben E3 Universal, and Autopsy**.  
+This repository contains a collection of **forensic analysis reports, case studies, lab exercises, and investigative reports** that I have completed during my academic journey in **Digital Forensics and Cybersecurity**. The work is categorized into two primary areas:  
 
----
+1. **📱 Mobile Forensics** – Covers forensic investigations on Android and iOS devices, including APK analysis, SQLite database extractions, and file system analysis.  
+2. **💻 Computer/Digital Forensics** – Encompasses forensic examinations of computer systems, log analysis, hacking case investigations, and forensic methodologies.  
 
-## 🔍 Overview of the Work  
-
-The repository includes forensic research and practical investigations covering multiple aspects of **mobile forensics**, including **application analysis, file system investigations, database extractions, security assessments, and reverse engineering**. Below is a categorized breakdown of the work available:  
-
-### 📌 1. Android Forensics Investigations  
-- **📦 APK Analysis** – Forensic analysis of Android application package files to extract metadata, permissions, embedded resources, and security vulnerabilities.  
-- **📂 Android Package & SQLite Database Analysis** – Investigation of app data storage, user activity, and recovered messages from SQLite databases within Android applications.  
-- **📱 Pixel 3 APK & File System Analysis** – Examination of system logs, caches, and user data to extract potential forensic evidence.  
-- **📜 NDG Mobile Forensics** – Case studies on mobile forensic investigations involving data recovery, deleted file analysis, and encryption handling in Android.  
-
-### 🍏 2. iOS Forensics Investigations  
-- **📑 Plist File Analysis** – Examination of iOS property list (**plist**) files used for storing user and system data, aiding in reconstructing evidence from apps and device settings.  
-- **📲 iPhone 11 Forensic Examination** – Analysis of iPhone 11’s file system to extract contacts, messages, logs, and app activity for forensic evidence collection.  
-
-### 🛠 3. Reverse Engineering & Security Analysis  
-- **🔍 Reverse Engineering of Mobile Applications** – Decompiling and analyzing mobile apps to understand their security mechanisms, vulnerabilities, and embedded data.  
-- **📶 HTC Desire & Android Security Investigation** – Investigating security flaws and forensic recovery techniques in older Android devices.  
-- **🔓 Hacking & Reverse Engineering Mobile Applications** – Hands-on exercises in dissecting APKs, analyzing obfuscated code, and identifying security weaknesses in mobile applications.  
-
-### 📖 4. Forensic Lab Exercises & Quizzes  
-- **📝 Lab Reports on Mobile Forensics Investigations** – Detailed step-by-step forensic procedures for data acquisition, analysis, and reporting using multiple forensic tools.  
-- **🤖 Quizzes & AI-Based Forensics Exercises** – Assessment modules covering Android/iOS forensics, reverse engineering, AI applications in forensics, and forensic methodology best practices.  
+All reports and investigations in this repository are based on **open-source forensic datasets** available on **Digital Corpora**: [https://digitalcorpora.org/](https://digitalcorpora.org/).  
 
 ---
 
-## 🛠 Forensic Tools Used in Investigations  
-- **🖥 FTK Imager** – Imaging and analyzing forensic artifacts from mobile devices.  
-- **🔬 Magnet Axiom** – Advanced forensic tool for mobile device data extraction and analysis.  
-- **📊 Paraben E3 Universal** – Comprehensive forensic tool supporting Android and iOS investigations.  
-- **🔍 Autopsy** – Open-source forensic tool for structured file system and artifact analysis.  
+## 📂 Repository Structure  
+
+### **1️⃣ Mobile Forensics Reports**  
+This section contains forensic investigations related to Android and iOS devices. The reports include:  
+- **APK & Mobile App Analysis** – Extracting metadata, permissions, and embedded resources from Android APK files.  
+- **SQLite Database & File System Investigations** – Examining user data stored within mobile applications.  
+- **Plist & iOS Forensics** – Recovering forensic artifacts from iOS property list files.  
+- **Reverse Engineering Mobile Apps** – Dissecting and analyzing the security mechanisms of various mobile applications.  
+- **Forensic Tool Usage** – Reports based on tools like **FTK Imager, Magnet Axiom, Paraben E3 Universal, and Autopsy**.  
+
+For more details on **Mobile Forensics**, refer to [this section](./Mobile_Forensics).  
 
 ---
 
-## 🔬 Key Areas of Research & Investigation  
-- **📲 Mobile Application Security & Privacy Risks** – Analyzing mobile apps for potential security threats, data leakage, and user privacy concerns.  
-- **♻️ Deleted Data & Cache Recovery** – Investigating how deleted files and cached data can be recovered from mobile devices.  
-- **📁 Forensic Artifacts in Mobile Operating Systems** – Understanding where forensic evidence resides within Android and iOS file structures.  
-- **🤖 Impact of AI in Mobile Forensics** – Evaluating how artificial intelligence and machine learning can enhance forensic data analysis.  
+### **2️⃣ Computer/Digital Forensics Reports**  
+This section covers forensic reports based on **computer system investigations, log analysis, forensic case studies, and incident response exercises**. The topics include:  
+- **Hacking & Reverse Engineering Cases** – Analyzing potential security breaches, system intrusions, and digital evidence recovery.  
+- **Data Leakage & Privacy Investigations** – Examining forensic data related to **unauthorized data access and exfiltration cases**.  
+- **Forensic Log Analysis** – Investigating system logs, HTTP access records, and network activity logs.  
+- **Cybercrime Case Studies** – Reports on various cyber incidents based on open-source forensic images.  
+- **Practical Exercises & Quizzes** – Hands-on lab reports and assessments related to forensic methodologies.  
+
+For more details on **Digital Forensics**, refer to [this section](./Digital_Forensics).  
 
 ---
 
-## 🎯 Purpose of this Repository  
-
-This repository serves as a **knowledge base** for **digital forensic researchers, cybersecurity professionals, and students** interested in:  
-- **📱 Android & iOS forensics**  
-- **🔎 Reverse engineering**  
-- **🔐 Mobile security analysis**  
-
-It provides **practical forensic case studies**, **real-world forensic investigations**, and **learning resources** for those exploring **mobile forensic methodologies and tools**.  
-
-📌 **Stay tuned for updates as new forensic investigations and analysis reports are added!** 🚀  
+## 🛠 Forensic Tools Used  
+Throughout my forensic investigations, I have utilized multiple industry-standard tools, including:  
+- **FTK Imager** – Disk imaging and forensic artifact extraction.  
+- **Magnet Axiom** – Mobile and computer forensic analysis.  
+- **Paraben E3 Universal** – Data extraction from various digital devices.  
+- **Autopsy** – Open-source digital forensic tool for structured file system analysis.  
+- **Wireshark** – Network traffic analysis and forensic packet inspection.  
+- **Volatility** – Memory forensics for investigating RAM dumps.  
 
 ---
 
-## 💡 Contributing  
-Feel free to contribute to this repository by submitting issues, improvements, or additional forensic case studies. Your input is valuable in enhancing the mobile forensic knowledge base!  
+## ⚠️ Disclaimer  
+🚨 **Important Notice** 🚨  
+
+This repository consists of **independent academic work** done entirely by me as part of my **digital forensics coursework and self-learning**. The findings, conclusions, and methodologies presented in these reports:  
+- **May be correct or incorrect** – These are my personal investigations, and I do not claim absolute accuracy.  
+- **Should not be considered official forensic findings** – These are purely academic exercises and are **not legally admissible evidence**.  
+- **Are for learning and educational purposes only** – Feel free to use my reports for reference, but do not **quote, cite, or blame me** for any inaccuracies.  
+
+---
+
+## 📌 Purpose of This Repository  
+This repository serves as a **learning resource** for:  
+✅ **Students and researchers** interested in Mobile & Digital Forensics.  
+✅ **Cybersecurity professionals** looking for forensic case studies and reports.  
+✅ **Forensic practitioners** seeking real-world analysis examples using open-source forensic datasets.  
+
+📢 **Stay tuned!** I will continue adding more forensic investigations, case studies, and reports as I progress in my academic and professional journey. 🚀  
+
+---
+
+## 🤝 Contributions  
+While this is an independent project, I welcome suggestions, feedback, and discussions related to forensic methodologies and tools. Feel free to open an issue or contact me if you have insights to share!  
 
 ---
 
 ## 📜 License  
-This repository is available under the **MIT License**. See the [LICENSE](LICENSE) file for details.
+This repository is released under the **MIT License**. See the [LICENSE](LICENSE) file for more details.
