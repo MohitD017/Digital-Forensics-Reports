@@ -5,7 +5,7 @@ This repository contains a collection of **forensic analysis reports, case studi
 1. **📱 Mobile Forensics** – Covers forensic investigations on Android and iOS devices, including APK analysis, SQLite database extractions, and file system analysis.  
 2. **💻 Computer/Digital Forensics** – Encompasses forensic examinations of computer systems, log analysis, hacking case investigations, and forensic methodologies.  
 
-All reports and investigations in this repository are based on **open-source forensic datasets** available on **Digital Corpora**: [https://digitalcorpora.org/ (https://digitalcorpora.org/) and [https://cfreds-archive.nist.gov/mobile/index.html] (https://cfreds-archive.nist.gov/mobile/index.html).  
+All reports and investigations in this repository are based on **open-source forensic datasets** available on **Digital Corpora**: [https://digitalcorpora.org/} (https://digitalcorpora.org/) and [https://cfreds-archive.nist.gov/mobile/index.html] (https://cfreds-archive.nist.gov/mobile/index.html).  
 
 ---
 
