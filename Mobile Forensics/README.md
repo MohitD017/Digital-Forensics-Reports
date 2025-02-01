@@ -6,7 +6,7 @@ This repository contains a comprehensive collection of **forensic analysis repor
 
 ## 🔍 Overview of the Work  
 
-The repository includes forensic research and practical investigations covering multiple aspects of **mobile forensics**, including **application analysis, file system investigations, database extractions, security assessments, and reverse engineering**. Below is a categorized breakdown of the work available:  
+The repository includes forensic research and practical investigations covering multiple aspects of **mobile forensics**, including **application analysis, file system investigations, database extractions, security assessments, and reverse engineering**. All of these are based on the open-source forensic images and datasets available on:https://digitalcorpora.org/. Below is a categorized breakdown of the work available:
 
 ### 📌 1. Android Forensics Investigations  
 - **📦 APK Analysis** – Forensic analysis of Android application package files to extract metadata, permissions, embedded resources, and security vulnerabilities.  
