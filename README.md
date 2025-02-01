@@ -19,7 +19,7 @@ This section contains forensic investigations related to Android and iOS devices
 - **Reverse Engineering Mobile Apps** – Dissecting and analyzing the security mechanisms of various mobile applications.  
 - **Forensic Tool Usage** – Reports based on tools like **FTK Imager, Magnet Axiom, Paraben E3 Universal, and Autopsy**.  
 
-For more details on **Mobile Forensics**, refer to [this section](https://github.com/frankwxu/digital-forensics-lab/blob/main/papers/books/)).  
+For more details on **Mobile Forensics**, refer to [this section](https://github.com/frankwxu/digital-forensics-lab/blob/main/papers/books/).  
 
 ---
 
