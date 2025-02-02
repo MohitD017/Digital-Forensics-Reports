@@ -19,7 +19,7 @@ This section contains forensic investigations related to Android and iOS devices
 - **Reverse Engineering Mobile Apps** – Dissecting and analyzing the security mechanisms of various mobile applications.  
 - **Forensic Tool Usage** – Reports based on tools like **FTK Imager, Magnet Axiom, Paraben E3 Universal, and Autopsy**.  
 
-For more details on **Mobile Forensics**, refer to [this section](https://github.com/frankwxu/digital-forensics-lab/blob/main/papers/books/).  
+For more details on **Mobile Forensics**, refer to [this Android Forensic Handbook](https://github.com/frankwxu/digital-forensics-lab/blob/main/papers/books/). This handbook is designed by me based on the findings while analyzing and investigating a Google Pixel 3 device based on Android Version 10.
 
 ---
 
@@ -31,7 +31,7 @@ This section covers forensic reports based on **computer system investigations, 
 - **Cybercrime Case Studies** – Reports on various cyber incidents based on open-source forensic images.  
 - **Practical Exercises & Quizzes** – Hands-on lab reports and assessments related to forensic methodologies.  
 
-For more details on **Digital Forensics**, refer to [this section](./[Digital_Forensics](https://github.com/frankwxu/digital-forensics-lab/tree/main/papers/books)).  
+For more details on **Digital Forensics**, refer to [this Digital Forensic Handbook](./[Digital_Forensics](https://github.com/frankwxu/digital-forensics-lab/tree/main/papers/books)). This handbook explores basics and the overall experience along with procedure while investigating and examining using industry certified forensic toolkits like FTK Imager, Autopsy and Kali Linux based investigations.
 
 ---
 
